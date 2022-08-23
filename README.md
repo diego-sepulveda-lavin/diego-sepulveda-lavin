@@ -5,7 +5,7 @@
    <td>
 <h3>I'm Diego from Chile 🇨🇱</h3>
 
-- 🔭 I’m currently working at 4Geeks Academy as Teacher Assistant.
+- 🔭 I’m currently working at HelloHello Company as Frontend Developer.
 - 🌱 At the moment I'm learning data structures and algorithms.
 - I speak Spanish 🇪🇸, English 🇬🇧 and a bit of German 🇩🇪
 - 📫 How to reach me: <a style="vertical-align:middle" href="https://www.linkedin.com/in/diego-sepulveda-lavin/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
